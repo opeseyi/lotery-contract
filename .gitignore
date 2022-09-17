@@ -1,0 +1,12 @@
+# vscode
+.vscode
+
+#Hardhat files
+node_modules
+deployments
+.env
+coverage
+coverage.json
+typechain
+cache
+artifacts
